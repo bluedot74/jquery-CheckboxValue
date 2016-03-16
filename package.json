@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "A simple jQuery plugin that adds values for false checkboxes on form submit",
   "main": "dist/jquery.checkboxvalue.min.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Josh Willis",
   "license": "ISC",
   "devDependencies": {
